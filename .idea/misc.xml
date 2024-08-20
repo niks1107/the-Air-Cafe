@@ -1,0 +1,46 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/drawable/backgroundeditview.xml" value="0.2265" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/drawable/btn_gradient.xml" value="0.2265" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/drawable/btn_gradint.xml" value="0.2265" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/drawable/fbbackground.xml" value="0.2265" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/drawable/googleback.xml" value="0.2265" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_bill.xml" value="0.19067977768277042" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_code_scan.xml" value="0.19067977768277042" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_colddrink.xml" value="0.2" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_continental.xml" value="0.17994451050336902" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_home_page.xml" value="0.264" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_menus.xml" value="0.2" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_north.xml" value="0.19067977768277042" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_qrcode.xml" value="0.16" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_scan.xml" value="0.19067977768277042" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_sign_in.xml" value="0.264" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_signup.xml" value="0.19976218787158145" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_south.xml" value="0.19067977768277042" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/activity_splash_screen.xml" value="0.23645833333333333" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/layout/content_home_page.xml" value="0.17994451050336902" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/menu/activity_main_drawer.xml" value="0.4" />
+        <entry key="..\:/asus/CLG/ANDROID/TheAircafe/app/src/main/res/menu/home_page.xml" value="0.72" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectResources">
+    <xml-schema-version>XMLSchema_1_1</xml-schema-version>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

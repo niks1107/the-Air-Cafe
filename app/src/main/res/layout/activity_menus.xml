@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".menus">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="205dp"
+        android:layout_height="380dp"
+        android:background="@color/white"
+        app:cardBackgroundColor="@color/white">
+
+        <Button
+            android:id="@+id/southbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:text="south indian"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="italic"
+            android:layout_gravity="center"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="205dp"
+        android:layout_height="380dp"
+        android:layout_marginLeft="205dp"
+        android:background="@color/white"
+        app:cardBackgroundColor="@color/white">
+
+        <Button
+            android:id="@+id/northbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:text="north indian"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="italic"
+            android:layout_gravity="center">
+
+        </Button>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="205dp"
+        android:layout_height="470dp"
+        android:layout_marginTop="400dp"
+        android:background="@color/white"
+        app:cardBackgroundColor="@color/white">
+
+        <Button
+            android:id="@+id/contbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:text="Continental"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="italic"
+            android:layout_gravity="center"/>
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="205dp"
+        android:layout_height="470dp"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="400dp"
+        app:cardBackgroundColor="@color/white">
+
+        <Button
+            android:id="@+id/coldbtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:text="BEVERAGES"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="italic"
+            android:layout_gravity="center"/>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
