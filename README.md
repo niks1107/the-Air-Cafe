@@ -9,22 +9,6 @@ The Air Cafe project is a streamlined ordering system designed to improve effici
 
 This project requires a frontend (customer-facing) and a backend (cafe owner-facing) application.  The specific installation instructions will depend on the technologies used (e.g., React, Node.js, Python, etc.).  Detailed instructions will be provided in separate READMEs within the `frontend` and `backend` directories once the project is developed.  For now, here's a placeholder:
 
-**Prerequisites:**
-
-* [List necessary software and dependencies here, e.g., Node.js, npm, Python, a database system]
-
-**Steps:**
-
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the `frontend` directory: `cd frontend`
-3. Install frontend dependencies: `npm install` (or equivalent command for your chosen package manager)
-4. Navigate to the `backend` directory: `cd ../backend`
-5. Install backend dependencies:  `npm install` (or equivalent command for your chosen package manager)
-6. Configure the database (instructions will be provided in the `backend` README).
-7. Start the backend server.
-8. Start the frontend application.
-
-
 ## Usage
 
 **Customer (Frontend):**
@@ -52,28 +36,3 @@ This project requires a frontend (customer-facing) and a backend (cafe owner-fac
 * **Order Management:** Cafe owners can manage orders, mark them as complete, and track order status.
 
 
-## Screenshots
-
-![Screenshot Customer View](https://dummyimage.com/600x400/000/fff&text=Customer+View)
-![Screenshot Admin View](https://dummyimage.com/600x400/000/fff&text=Admin+View)
-
-
-## Video Demo
-
-[Watch Video](https://www.example.com/demo-video)
-
-
-## Contributing
-
-Contributions are welcome! Please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Make your changes and commit them.
-4. Push your branch to your forked repository.
-5. Create a pull request.
-
-
-## License
-
-[Specify your license here, e.g., MIT License]
